@@ -1,5 +1,5 @@
 # exlude datasets and externals
-notebooks/datasets
+notebooks/datasets/creditcard.csv
 notebooks/joblib/
 
 # exclude temporary files
